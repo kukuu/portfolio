@@ -18,7 +18,7 @@ Discover how to maximize your productivity with this Task Manager.The applicatio
 
 https://www.lovejoint.store/: A Nutraceutical for Lifestyle & Healthy Living:
 
-## .GOV.UK,GCHQ & NCSC platforms:
+## .GOV.UK, GCHQ & NCSC platforms:
 
 https://www.gchq.gov.uk/ | https://www.ncsc.gov.uk/  | https://www.ncsc.gov.uk/ 
 
