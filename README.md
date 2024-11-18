@@ -2,7 +2,7 @@
 
 ## DIGITAL TWIN 
 
-https://digital-twin-v2-chi.vercel.app/ .
+https://digital-twin-v2-chi.vercel.app/ 
 
 A virtual representation of a physical Energy Meter Reader.The software mirrors the real-world physical entity by continuously collecting and emitting data at run-time from sensors, IoT devices, and other sources. It leverages advanced emerging technologies such as artificial intelligence, machine learning, and predictive maintenance and analytics, and simulates various scenarios and predict future outcomes. Digital twins are adaptable for use and can be simulated for use in all aspects of industry. Namely, digital transformation, eCommerce, defence, aerospace, combat systems, manufacturing, electronics, automotives, utilities and many more.
 
@@ -18,7 +18,7 @@ Discover how to maximize your productivity with this Task Manager.The applicatio
 
 https://www.lovejoint.store/
 
-A Nutraceutical for Lifestyle & Healthy Living:
+A Nutraceutical for Lifestyle & Healthy Living.
 
 ## .GOV.UK, GCHQ & NCSC platforms:
 
