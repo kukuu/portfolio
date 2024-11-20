@@ -8,7 +8,7 @@ A virtual representation of a physical Energy Meter Reader.The software mirrors 
  
 Used in combat systems, digital twins integrates advanced data analytics, real-time simulation, and AI to create a virtual representation of defence assets, systems, and operations, allowing for enhanced decision-making, predictive maintenance, and operational efficiency. By leveraging this technology, it optimises asset management, improve system reliability, and strengthen mission readiness while minimising costs and risks in complex defence environments. 
 
-## TASK MANAGER
+## TASK MANAGER 
 
 https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s
 
