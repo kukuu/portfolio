@@ -1,7 +1,7 @@
 
 # Alexander Adu-Sarkodie
 
-In 2023, Alexander was honoured to be named one of the Top 50 Technologists in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices, while upholding standards and governance in digital transformation initiatives and achieving impactful results.
+In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices, while upholding standards and governance in digital transformation initiatives and achieving impactful results.
 
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)
 
@@ -29,6 +29,10 @@ https://www.azzottoscouttmacademy.com/
 # Portfolio
 
 https://github.com/DataSolutionSoftware/Portfolio  
+
+# LinkedIn 
+
+https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
 
 
   
