@@ -6,9 +6,12 @@ In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** 
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)
 
 
-
 # Price Comparison - Smart Energy Meter Reader 
 https://www.energytariffscheck.com/
+
+# Conveyor Belt Simulation
+
+https://github.com/kukuu/raspberry-pie-digital/tree/main/conveyor-belt-nodejs-JS
 
 # Love Joint
 https://www.lovejoint.store/
