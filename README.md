@@ -11,15 +11,12 @@ https://www.energytariffscheck.com/
 
 # Conveyor Belt Simulation
 
-https://github.com/kukuu/raspberry-pie-digital/tree/main/conveyor-belt-nodejs-JS
+https://github.com/kukuu/raspberry-pie-digital/blob/main/README.md
 
 # Love Joint
 https://www.lovejoint.store/
 
-# Conveyor Belt Simulation
-https://github.com/kukuu/raspberry-pie-digital/tree/main
 
-  
 # AZZOTTO Movies (Trailers)
 
 https://movie-trailers-olive.vercel.app/
