@@ -28,6 +28,11 @@ As Head of Product Engineering & Delivery, I led the end-to-end technical design
 
 https://www.lovejoint.store/
 
+# ScoutTM Football Academy
+
+Azzotto Football Academy is more than a skills school - it’s a launchpad for dreams, where every child’s potential is nurtured on lush green pitches under the guidance of experienced coaches. Its  comprehensive training program goes beyond technique, fostering a love for the game while cultivating teamwork, sportsmanship, discipline, and resilience, shaping well-rounded individuals both on and off the field. United by the magic of football, it welcomes players of all backgrounds and abilities, creating a supportive community where dreams become a shared journey and the rhythm of the ball leads to a future brimming with endless possibilities.
+
+https://www.azzottoscouttmacademy.com/
 
 # AZZOTTO Movies 
 
@@ -43,14 +48,7 @@ Content Previews: A dedicated Trailers section (/trailers) to enhance discoverab
 
 Scalable Infrastructure: The site is built for performance and scalability, capable of handling media streaming demands and a growing user base without compromising on speed or reliability.
 
-https://www.azzottomovies.com/
-
-
-# ScoutTM Football Academy
-
-Azzotto Football Academy is more than a skills school - it’s a launchpad for dreams, where every child’s potential is nurtured on lush green pitches under the guidance of experienced coaches. Its  comprehensive training program goes beyond technique, fostering a love for the game while cultivating teamwork, sportsmanship, discipline, and resilience, shaping well-rounded individuals both on and off the field. United by the magic of football, it welcomes players of all backgrounds and abilities, creating a supportive community where dreams become a shared journey and the rhythm of the ball leads to a future brimming with endless possibilities.
-
-https://www.azzottoscouttmacademy.com/
+https://www.azzottomovies.com/ (comming near you!)
 
 
 # LinkedIn 
