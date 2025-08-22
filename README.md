@@ -24,7 +24,7 @@ https://github.com/kukuu/raspberry-pie-digital/blob/main/README.md
 
 # Love Joint
 
-As Head of Product Engineering & Delivery, I led the end-to-end technical design and implementation of the e-commerce platform, ensuring scalability, secure payment integrations, and seamless user experience. As achievement, I delivered a robust, high-performance platform that supported a 300% increase in user traffic post-launch, optimised page load speeds by 40%, and integrated a custom CMS for dynamic product management, directly contributing to rapid revenue growth and market penetration.
+As Head of Product Engineering & Delivery, I led the end-to-end technical design and implementation of this e-commerce platform, ensuring scalability, secure payment integrations, and seamless user experience. As achievement, I delivered a robust, high-performance platform that supported a 300% increase in user traffic post-launch, optimised page load speeds by 40%, and integrated a custom CMS for dynamic product management, directly contributing to rapid revenue growth and market penetration.
 
 https://www.lovejoint.store/
 
