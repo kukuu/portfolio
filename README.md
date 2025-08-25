@@ -25,7 +25,11 @@ The algorithm employs discrete time-step simulation with three key functions:sim
 
 Leveraging a transformer-based agentic architecture, my full-stack engineering proficiency in software and mechanical engineering systems background enabled a holistic systems - thinking approach, uniquely positioning me to integrate cross - disciplinary insights and deliver an architecturally robust, industrially - grounded solution.
 
-https://github.com/kukuu/raspberry-pie-digital/blob/main/README.md
+
+
+<!-- https://github.com/kukuu/raspberry-pie-digital/blob/main/README.md -->.
+
+https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 
 # Love Joint
 
