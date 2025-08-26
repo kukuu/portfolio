@@ -29,7 +29,7 @@ Leveraging a transformer-based agentic architecture, my full-stack engineering p
 
 <!-- https://github.com/kukuu/raspberry-pie-digital/blob/main/README.md -->.
 
-Docuentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation 
+Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation 
 
 Snapshots: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md
 
