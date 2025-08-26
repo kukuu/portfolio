@@ -33,11 +33,20 @@ Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 
 Snapshots: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md
 
+# Repair Smart (Aerospace)
+Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for reusable solution design templates  automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
+
+# Obsolescence Enterprise Management System (Aerospace)
+The software offers a comprehensive database containing detailed information on building materials, and electronic components, including specifications, lifecycle status and compliance data.
+
 # Love Joint
 
 As Head of Product Engineering, I led the end-to-end technical design and implementation of this e-commerce platform, ensuring scalability, secure payment integrations, and seamless user experience. As achievement, I delivered a robust, high-performance platform that supported a 300% increase in user traffic post-launch, optimised page load speeds by 40%, and integrated a custom CMS for dynamic product management, directly contributing to rapid revenue growth and market penetration.
 
 https://www.lovejoint.store/
+
+# Task Manager
+Discover how to maximise your productivity with this Task Manager. The application can transform your workflow, regardless of your industry or field-based service. Keep track of tasks, simplify task management, client relationships, boost productivity from filtering tasks to client communication, invoice creation, and advanced settings: https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s&nopreview=1 
 
 # ScoutTM Football Academy
 
