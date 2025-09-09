@@ -5,7 +5,7 @@ In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** 
 
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)
 
-![image](https://github.com/kukuu/portfolio/blob/main/top-50.png) 
+![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)  
  
 # GitHub
 
