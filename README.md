@@ -3,6 +3,8 @@
 
 In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices, while upholding standards and governance in digital transformation initiatives and achieving impactful results.
 
+A trusted  hands-on Technical, Architectural and Management lead, he brings a proven track record of delivering transformative digital solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, and energy. My focus is on bridging technical and business priorities by collaborating with Product, DevOps, and Architecture teams to proactively manage risks, recruit top talent, and stay ahead of industry trends. This enables me to foster a culture of innovation, drive continuous improvement in engineering processes, and ultimately maintain a competitive advantage while achieving key objectives.
+
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)
 
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)  
