@@ -15,7 +15,7 @@ https://github.com/kukuu?tab=repositories
  
 The SPYDER Digital Twin Smart Energy Meter Reader, helps you find the best electricity tariff at the most competitive price. Compare different tariffs, check prices and choose the right option to save on energy bills. The Reader also serves as a forecasting system, a settlement tool and a Net Zero initiative. As a service, it aims to make great saving decisions making a breeze for everyone, and that purpose drives us every day. It's why it has  accomplished its mission by creating an artificial intelligence run-time quoting engine for finding the best energy tariffs, with the simplest of experiences, wrapped in a brand everyone loves! We change lives by making it simple to switch and save money! 
  
-https://www.energytariffscheck.com/ 
+https://www.energytariffscheck.com/ | https://github.com/kukuu/SPYDER 
 
 # Conveyor Belt Simulation
 
