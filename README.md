@@ -17,6 +17,11 @@ The SPYDER Digital Twin Smart Energy Meter Reader, helps you find the best elect
  
 https://www.energytariffscheck.com/ | https://github.com/kukuu/SPYDER 
 
+
+# SPYDER AI/ML/LLM-NLP Integration
+
+https://github.com/kukuu/AI-ML-LLM-NLP-integration
+
 # Conveyor Belt Simulation
 
 The Conveyor Belt simulation was developed using systematic engineering principles, beginning with modular decomposition of the core components. The solution architecture separates concerns between the belt mechanics (conveyor.js), worker coordination (workers.js), and hardware interface (gpio.js), following industrial control system design patterns.
