@@ -5,7 +5,7 @@ In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** 
 
 An experienced and  trusted  hands-on Technical, Architectural and People leader, he brings a proven track record of delivering transformative digital software and emerging technology  solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, GDS, cybersecurity, banking, live advertising campaigns and in energy. Adept at using RAD to build and iterate PoCs while  collaborating with Stakeholders, managing risks and compliance to delivery.  
 
-![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png) 
+![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)  
 
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)    
  
