@@ -8,7 +8,7 @@ An experienced and  trusted  hands-on Technical, Architectural and People leader
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)   
  
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)        
- 
+  
 # GitHub  
   
 https://github.com/kukuu?tab=repositories  .   
