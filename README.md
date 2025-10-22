@@ -84,7 +84,7 @@ Its core functionality is driven by a structured, data-centric architecture, all
 
 **Scalable Infrastructure**: The site is built for performance and scalability, capable of handling media streaming demands and a growing user base without compromising on speed or reliability.
 
-https://www.azzottomovies.com/ (comming near you!)
+https://www.azzottomovies.com/trailers (comming soon!)
 
 
 # LinkedIn 
