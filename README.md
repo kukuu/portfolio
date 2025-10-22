@@ -1,7 +1,7 @@
 
 # Alexander Adu-Sarkodie
 
-In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning Technical projects including **FIFA World Cup 2022 **in Qatar, **Digital Transformation of  Marks & Spencer**, **GCHQ** and aspects of the **MOD** - UK , while upholding standards and governance in digital transformation initiatives and achieving impactful results.
+In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning Technical projects including **FIFA World Cup 2022** in Qatar, **Digital Transformation of  Marks & Spencer**, **GCHQ** and aspects of the **MOD** - UK , while upholding standards and governance in digital transformation initiatives and achieving impactful results.
 
 An experienced and  trusted  hands-on Technical, Architectural and People leader, he brings a proven track record of delivering transformative digital software and emerging technology  solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, GDS, cybersecurity, banking, live advertising campaigns and in energy. Adept at using RAD to build and iterate PoCs while  collaborating with Stakeholders, managing risks and compliance to delivery.  
 
