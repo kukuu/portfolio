@@ -27,7 +27,7 @@ A custom domain based unique  AI Engine, LLM, NLP, ML, RAG pipeline orchestrator
 
 https://github.com/kukuu/ask-JIM/blob/main/README.md
 
-# SPYDER AI/ML/LLM-NLP Integration
+#  AI/ML/LLM-NLP Integration - SPYDER
 
 https://github.com/kukuu/AI-ML-LLM-NLP-integration
 
