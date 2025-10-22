@@ -21,6 +21,11 @@ https://www.energytariffscheck.com/
 
 https://github.com/kukuu/SPYDER 
 
+# Ask JIM
+
+A custom domain based unique  AI Engine, LLM, NLP, ML, RAG pipeline orchestrator.
+
+https://github.com/kukuu/ask-JIM/blob/main/README.md
 
 # SPYDER AI/ML/LLM-NLP Integration
 
