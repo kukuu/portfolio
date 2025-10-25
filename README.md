@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s&nopreview=1
 Azzotto Football Academy is more than a skills school - it’s a launchpad for dreams, where every child’s potential is nurtured on lush green pitches under the guidance of experienced coaches. Its  comprehensive training program goes beyond technique, fostering a love for the game while cultivating teamwork, sportsmanship, discipline, and resilience, shaping well-rounded individuals both on and off the field. United by the magic of football, it welcomes players of all backgrounds and abilities, creating a supportive community where dreams become a shared journey and the rhythm of the ball leads to a future brimming with endless possibilities.
 
 https://www.azzottoscouttmacademy.com/
-
+ 
 # AZZOTTO Movies 
 
 Azzotto Movies is a sophisticated, streaming platform engineered to cater to a global audience with a specialized focus on regional cinema, including Asian and African films. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
