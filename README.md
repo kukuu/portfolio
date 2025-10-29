@@ -10,7 +10,7 @@ An experienced and  trusted  hands-on Technical, Architecture and People leader,
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)             
       
 # GitHub    
-  
+   
 https://github.com/kukuu?tab=repositories  .       
            
 # Price Comparison - Smart Energy Meter Reader     
