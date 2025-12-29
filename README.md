@@ -20,7 +20,7 @@ https://www.energytariffscheck.com/   |  https://github.com/kukuu/SPYDER
 
 # StrikeNet (MOD)
 
-I introduced new digital transformation capabilities to the UK Ministry of Defence, a client operating in a high-stakes, complex environment.
+Introduced a new digital transformation capabilities to the UK Ministry of Defence, a client operating in a high-stakes, complex environment.
 I architected the **StrikeNet** Digital Twin project, a defence-grade platform that virtualised combat systems. This involved integrating real-time IoT sensor data with AI-driven analytics to simulate scenarios and predict outcomes. The strategy was to move from reactive to predictive operations. I ensured alignment by continuously engaging with MOD stakeholders, translating their operational challenges into technical requirements, and demonstrating value through prototypes and KPIs. Collaborated with product managers and business stakeholders to prioritise the AI/ML development backlog and define end-to-end technology roadmaps, ensuring initiatives were aligned with key business objectives and market opportunities.
 
 The solution reduced operational risks by 30% and significantly improved asset management reliability. This proved the strategy's value by delivering tangible business outcomes - enhanced decision-making and cost efficiency - in a critical environment.
