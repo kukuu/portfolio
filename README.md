@@ -32,7 +32,7 @@ A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and 
 
 https://github.com/kukuu/ask-JIM/blob/main/README.md
 
-#  AI/ML/LLM-NLP Integration - SPYDER
+#  AI/ML/LLM-NLP Integration 
 
 https://github.com/kukuu/AI-ML-LLM-NLP-integration
 
