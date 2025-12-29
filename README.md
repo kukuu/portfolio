@@ -54,7 +54,7 @@ Leveraging a transformer-based agentic architecture, my full-stack engineering p
 
 Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation 
 
-Snapshots: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md
+<!--Snapshots: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md -->
 
 
 
