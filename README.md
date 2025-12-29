@@ -5,7 +5,7 @@ In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** 
 
 An experienced and  trusted  hands-on Technical, Architecture and People leader, he brings a proven track record of delivering transformative digital software and emerging technology  solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, GDS, cybersecurity, banking, live advertising campaigns and in energy. A Technical Leader with a hands-on approach, adept at using Rapid Application Development (RAD) to rapidly build and iterate Prototypes and PoCs. Excels at collaborating with stakeholders to manage risks and ensure compliant delivery.   
  
-![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)   |  ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                            
+![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)     ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                            
         
 # GitHub     
      
@@ -15,9 +15,7 @@ https://github.com/kukuu?tab=repositories    .
  
 The SPYDER Digital Twin Smart Energy Meter Reader helps you find the best electricity tariff at the most competitive price.  Compare different tariffs, check prices and choose the right option to save on energy bills. The Reader also serves as a forecasting system, a settlement tool and a Net Zero initiative. As a service, it aims to make great savings decisions, making it a breeze for everyone, and that purpose drives us every day. It's why it has accomplished its mission by creating an artificial intelligence-run quoting engine for finding the best energy tariffs, with  the simplest of experiences, wrapped in a brand everyone loves. We change lives by making it simple to switch and save money!' 
  
-https://www.energytariffscheck.com/ 
-
-https://github.com/kukuu/SPYDER 
+https://www.energytariffscheck.com/   |  https://github.com/kukuu/SPYDER 
 
 
 # StrikeNet (MOD)
