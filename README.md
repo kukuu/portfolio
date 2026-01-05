@@ -1,5 +1,5 @@
 
-# Alexander Adu-Sarkodie
+# Alexander Adu-Sarkodie 
 
 In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning transformation and technical projects including **FIFA World Cup 2022** in Qatar, digital transformations of  **Marks & Spencer**, **GCHQ** and aspects of the **MOD** - UK , while upholding standards and governance initiatives in achieving impactful results. 
 
