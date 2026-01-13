@@ -4,7 +4,7 @@
 In 2023, Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning transformation and technical projects including **FIFA World Cup 2022** in Qatar, digital transformations of  **Marks & Spencer**, **GCHQ** and aspects of the **MOD** - UK , while upholding standards and governance initiatives in achieving impactful results. 
 
 An experienced and  trusted  hands-on Technical, Architecture and People leader, he brings a proven track record of delivering transformative digital software and emerging technology  solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, GDS, cybersecurity, banking, live advertising campaigns and in the energy sector. A Technical Leader with a hands-on approach, adept at using Rapid Application Development (RAD) to rapidly build and iterate Prototypes and PoCs. Excels at collaborating with stakeholders to manage risks and ensure compliant delivery.   
-  
+   
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)     ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                               
          
 # GitHub       
