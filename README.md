@@ -10,7 +10,7 @@ An experienced and  trusted  hands-on Technical, Architecture and People leader,
 # Linkedin Profile
 
 https://github.com/kukuu/portfolio/blob/main/linkedin-profile.png        
-
+ 
 # GitHub       
      
 https://github.com/kukuu?tab=repositories    .          
