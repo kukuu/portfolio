@@ -43,7 +43,7 @@ _Features:_
   - https://www.azzottomovies.com/lounge
   - JUKEBOX: Selection of GenXZ music
   - Global Music and Sports Events 2026
-  - Pletora of GallerIES and Trends
+  - Pletora of Gallerie and Trends
 
             
 # Price Comparison - Smart Energy Meter Reader       
