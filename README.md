@@ -19,20 +19,7 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
 
 **250 Repositories**
      
-https://github.com/kukuu?tab=repositories    .          
-             
-# Price Comparison - Smart Energy Meter Reader       
- 
-A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions.
-
-Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
- 
-**Application**: https://www.energytariffscheck.com/   
-
-**Overview**: https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md   
-
-**Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
-
+https://github.com/kukuu?tab=repositories
 
 # AZZOTTO Movies 
 
@@ -49,6 +36,21 @@ Its core functionality is driven by a structured, data-centric architecture, all
 <!--**Regional Content Hubs**: Dedicated, optimized sections for specific regions (e.g., /asian, /african), enabling targeted discovery and showcasing a deep understanding of niche market segmentation.-->
 
 https://www.azzottomovies.com/
+          
+             
+# Price Comparison - Smart Energy Meter Reader       
+ 
+A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions.
+
+Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
+ 
+**Application**: https://www.energytariffscheck.com/   
+
+**Overview**: https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md   
+
+**Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
+
+
 
 
 # StrikeNet (MOD)
