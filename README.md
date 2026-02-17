@@ -7,7 +7,7 @@ An experienced and  trusted  hands-on Technical, Architecture and People leader,
    
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)         ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                                            
 
-**249 Repositories**
+
          
 # Profile
 
@@ -15,7 +15,9 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
  
 <!--https://github.com/kukuu/portfolio/blob/main/linkedin-profile.png  -->         
  
-# GitHub       
+# GitHub    
+
+**249 Repositories**
      
 https://github.com/kukuu?tab=repositories    .          
              
