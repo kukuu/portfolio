@@ -23,7 +23,7 @@ https://github.com/kukuu?tab=repositories
 
 # AZZOTTO Movies 
 
-Azzotto Movies is a sophisticated, streaming platform engineered to cater to a global audience with a specialized focus on regional cinema. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
+Azzotto Movies is a sophisticated, streaming and entertainment  service engineered to cater to a global audience with a specialized focus on regional cinema. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
 
 Its core functionality is driven by a structured, data-centric architecture, allowing for dynamic content curation and efficient management of a diverse media library. Key features include:
 
