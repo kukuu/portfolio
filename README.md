@@ -74,7 +74,7 @@ The system implements a sophisticated four-tier decision tree that sequentially 
 
 https://github.com/kukuu/BOM-Compliance-repo (**PRIVATE**)
 
-# "Ask JIM"
+# "Ask JIM" - AI Agent Trusted companion 
 
 A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
 
