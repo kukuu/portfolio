@@ -51,7 +51,7 @@ Its proven track record is honed in applying AI to core business problems. SPYDE
 **Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 
 
-# "Ask JIM" - AI Agent Trusted companion 
+# "Ask JIM" - AI Agent Trusted Companion 
 
 A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
 
