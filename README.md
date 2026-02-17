@@ -51,7 +51,11 @@ Its proven track record is honed in applying AI to core business problems. SPYDE
 **Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 
 
+# "Ask JIM" - AI Agent Trusted companion 
 
+A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
+
+https://github.com/kukuu/ask-JIM/blob/main/README.md
 
 # StrikeNet (MOD UK)
 
@@ -73,12 +77,6 @@ Algorithm Workflow:
 The system implements a sophisticated four-tier decision tree that sequentially searches internal databases, vendor APIs, Vector Search - LLM+RAG pipelines, and fallback fuzzy matching to ensure optimal component substitution with comprehensive metadata extraction including production years, compliance status, vendor pricing, and stock availability.
 
 https://github.com/kukuu/BOM-Compliance-repo (**PRIVATE**)
-
-# "Ask JIM" - AI Agent Trusted companion 
-
-A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
-
-https://github.com/kukuu/ask-JIM/blob/main/README.md
 
 #  AI/ML/LLM-NLP Integration 
 A structured approach to leveraging stack  necessary  for Machine Learning and Large Language Models integration.
