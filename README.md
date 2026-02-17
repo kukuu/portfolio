@@ -37,7 +37,15 @@ Its core functionality is driven by a structured, data-centric architecture, all
 
 https://www.azzottomovies.com/ | https://github.com/kukuu/AZZOTTO-Movies-Prime-Time
           
-             
+_Features:_
+
+  - https://www.azzottomovies.com/movie/434853
+  - https://www.azzottomovies.com/lounge
+  - JUKEBOX: Selection of GenXZ music
+  - Global Music and Sports Events 2026
+  - Pletora of GallerIES and Trends
+
+            
 # Price Comparison - Smart Energy Meter Reader       
  
 A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions.
