@@ -29,7 +29,7 @@ Its proven track record is honed in applying AI to core business problems. SPYDE
  
 **Application**: https://www.energytariffscheck.com/   
 
-**Documentation**: https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md   
+**Overview**: https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md   
 
 **Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 
