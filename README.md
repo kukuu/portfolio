@@ -60,6 +60,19 @@ I architected the **StrikeNet** Digital Twin project, a defence-grade platform t
 
 The solution reduced operational risks by 30% and significantly improved asset management reliability. This proved the strategy's value by delivering tangible business outcomes - enhanced decision-making and cost efficiency - in a critical environment.
 
+# Repair Smart (Aerospace)
+Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for reusable solution design templates  automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
+
+# Obsolescence Enterprise Management System (Aerospace)
+
+This BOM Compliance System addresses the critical challenge of component obsolescence in manufacturing and construction industries. The platform solves the expensive and time-consuming problem of electronic components and building materials becoming obsolete, which can halt production lines and delay projects costing companies millions. By automatically identifying at-risk components and providing compliant substitutes, the system prevents production stoppages and ensures regulatory compliance throughout product lifecycles.
+
+The solution leverages a data science modern technology stack with C# .NET 8 for the backend API, PostgreSQL with Supabase for the comprehensive materials database, and React for the responsive frontend interface. It incorporates advanced data science capabilities through machine learning models that extract component metadata from PDF datasheets, while LLM and RAG pipelines intelligently search for alternative components when originals are discontinued. The system includes robust error handling and role-based authentication, distinguishing between Data Analysts with read-only access and Senior Managers with full read-write privileges.
+
+Algorithm Workflow:
+The system implements a sophisticated four-tier decision tree that sequentially searches internal databases, vendor APIs, Vector Search - LLM+RAG pipelines, and fallback fuzzy matching to ensure optimal component substitution with comprehensive metadata extraction including production years, compliance status, vendor pricing, and stock availability.
+
+https://github.com/kukuu/BOM-Compliance-repo (**PRIVATE**)
 
 # "Ask JIM"
 
@@ -91,19 +104,7 @@ Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 
 
 
-# Repair Smart (Aerospace)
-Non-Conformance Management Tracking (Repair Smart) software for the Aerospace Industry, Europe - A data harvesting AI engine for Quick Search for reusable solution design templates  automatically generated from stored procedures and algorithms. The software is designed to accelerate and automate repairs, reduce search time and improve efficiency.
 
-# Obsolescence Enterprise Management System (Aerospace)
-
-This BOM Compliance System addresses the critical challenge of component obsolescence in manufacturing and construction industries. The platform solves the expensive and time-consuming problem of electronic components and building materials becoming obsolete, which can halt production lines and delay projects costing companies millions. By automatically identifying at-risk components and providing compliant substitutes, the system prevents production stoppages and ensures regulatory compliance throughout product lifecycles.
-
-The solution leverages a data science modern technology stack with C# .NET 8 for the backend API, PostgreSQL with Supabase for the comprehensive materials database, and React for the responsive frontend interface. It incorporates advanced data science capabilities through machine learning models that extract component metadata from PDF datasheets, while LLM and RAG pipelines intelligently search for alternative components when originals are discontinued. The system includes robust error handling and role-based authentication, distinguishing between Data Analysts with read-only access and Senior Managers with full read-write privileges.
-
-Algorithm Workflow:
-The system implements a sophisticated four-tier decision tree that sequentially searches internal databases, vendor APIs, Vector Search - LLM+RAG pipelines, and fallback fuzzy matching to ensure optimal component substitution with comprehensive metadata extraction including production years, compliance status, vendor pricing, and stock availability.
-
-https://github.com/kukuu/BOM-Compliance-repo (**PRIVATE**)
 
 # Love Joint
 
