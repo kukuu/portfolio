@@ -1,7 +1,9 @@
 
 # Alexander Adu-Sarkodie 
 
-Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning transformation and technical projects including the **FIFA World Cup in Qatar**, **digital transformations of: Marks & Spencer,** **GCHQ**, aspects of the **MOD**, **SONY Pictures** and **Flix Premiere** (now owned by Netflix) while upholding standards and governance initiatives in achieving impactful results.
+Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning digital transformation and technical projects at 
+Ford Motor Company, BBC, Marks & Spencer, Sony Pictures,Flix Premier, MOD UK, GCHQ, Banking,Energy, and FIFA,  while upholding standards and governance initiatives in achieving impactful results.
+
 
 An experienced and  trusted Technical, Architecture, Design and People Leader, he brings a proven track record of delivering transformative digital software, artificial intelligence and emerging technology  solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, GDS, cybersecurity, banking, global live  campaigns and in the energy sector. A Technical Leader with a hands-on / hands-off  approach, adept at using Rapid Application Development (RAD), AI and ML to rapidly build  and iterate Prototypes and PoCs. Excels at collaborating with stakeholders to manage  risks and ensure  compliant delivery.    
    
