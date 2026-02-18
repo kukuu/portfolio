@@ -8,7 +8,7 @@ An experienced and  trusted Technical, Architecture, Design and People Leader, h
 ![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)          ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                                            
 
 
-         
+          
 # Profile
 
 https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-techlondon-ugcPost-6694141986187833344-vaOF/     
