@@ -5,7 +5,7 @@ Alexander was honoured to be named one of the **Top 50 Technologists** in the UK
 
 An experienced and  trusted Technical, Architecture, Design and People Leader, he brings a proven track record of delivering transformative digital software, artificial intelligence and emerging technology  solutions across industries, including digital broadcasting, aerospace, defence, e-commerce, GDS, cybersecurity, banking, global live  campaigns and in the energy sector. A Technical Leader with a hands-on / hands-off  approach, adept at using Rapid Application Development (RAD), AI and ML to rapidly build  and iterate Prototypes and PoCs. Excels at collaborating with stakeholders to manage  risks and ensure  compliant delivery.    
    
-![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)         ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                                            
+![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)          ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                                            
 
 
          
