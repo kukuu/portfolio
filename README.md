@@ -21,6 +21,26 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
      
 https://github.com/kukuu?tab=repositories
 
+# Nut Cracker: The Zero-Friction J2E (JSON to EXCEL) Converter.
+Nut Cracker: The Zero-Friction JSON ⇄ Excel (J2E) Converter
+
+Developed by Alexander Adu-Sarkodie, J2E aka Nut Cracker is a full-stack, API-driven solution that eliminates the manual grind of data conversion. It provides an intuitive web interface to instantly transform complex JSON structures into polished, formatted Excel spreadsheets and back again with a single click.
+
+Built for Data Scientists, Fullstack Developers, and Programmers, J2E is designed for seamless integration into any workflow. Whether you're preparing datasets for analysis, building ETL pipelines, or need a quick way to edit configuration files, J2E handles the heavy lifting. It features a robust backend API, a clean and modern UI with drag-and-drop uploads, and real-time file previews. 
+
+Stop wrestling with data formats and start shipping!
+
+**Screeen shot**
+
+<img width="1140" height="539" alt="Screenshot 2026-02-18 at 15 12 13" src="https://github.com/user-attachments/assets/65f5448c-d689-42c9-8e4c-6239cccb16c5" />
+
+
+
+**Watch Priview:** https://streamable.com/o3p11u
+
+https://github.com/kukuu/JSON-Excel-Converter-Full-Stack-Solution/blob/main/README.md  (PRIVATE).
+
+
 # AZZOTTO Movies 
 
 Azzotto Movies is a sophisticated, streaming and entertainment  service engineered to cater to a global audience with a specialized focus on regional cinema. The platform demonstrates advanced web development capabilities, featuring a responsive, user-friendly interface built with modern frameworks to ensure a seamless experience across all devices.
