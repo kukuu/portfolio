@@ -23,7 +23,7 @@ https://github.com/kukuu?tab=repositories
 
 # Nut Cracker: The Zero-Friction J2E (JSON to EXCEL) Converter
 
-Developed by Alexander Adu-Sarkodie, J2E aka Nut Cracker is a full-stack, API-driven solution that eliminates the manual grind of data conversion. It provides an intuitive web interface to instantly transform complex JSON structures into polished, formatted Excel spreadsheets and back again with a single click.
+Developed by Alexander Adu-Sarkodie, **Nut Cracker** is a full-stack, API-driven solution that eliminates the manual grind of data conversion. It provides an intuitive web interface to instantly transform complex JSON structures into polished, formatted Excel spreadsheets and back again with a single click.
 
 Built for Data Scientists, Fullstack Developers, and Programmers, J2E is designed for seamless integration into any workflow. Whether you're preparing datasets for analysis, building ETL pipelines, or need a quick way to edit configuration files, J2E handles the heavy lifting. It features a robust backend API, a clean and modern UI with drag-and-drop uploads, and real-time file previews. 
 
