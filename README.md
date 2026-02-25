@@ -13,15 +13,17 @@ Career trajectory spans Software Developer, Technical Lead, Principal Architect,
 
 
           
+# GitHub    
+
+**251 Repositories**
+
+
 # Technology Forum
 
 https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-techlondon-ugcPost-6694141986187833344-vaOF/      
  
 <!--https://github.com/kukuu/portfolio/blob/main/linkedin-profile.png  -->         
  
-# GitHub    
-
-**251 Repositories**
      
 https://github.com/kukuu?tab=repositories
 
