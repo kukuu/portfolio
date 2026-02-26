@@ -9,7 +9,7 @@ An experienced and  trusted Technical, Architecture, Design and People Leader, h
 
 Career trajectory spans Software Developer, Technical Lead, Principal Architect, Software Engineering Manager,Head of Studies (Baker Street College - London), Development Manager, Head of Engineering, Head of Development, CTO, and Head of Engineering & AI. Alexander disrupts the status quo with solution-driven approaches. His expertise in applied AI, LLMs, RAG, and autonomous agents delivers measurable efficiency gains, from automating complex processes to enhancing decision-making.    
    
-![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)                ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                                            
+![image](https://github.com/kukuu/portfolio/blob/main/top-50-announcement.png)                 ![image](https://github.com/kukuu/portfolio/blob/main/top-50.png)                                            
 
 
           
