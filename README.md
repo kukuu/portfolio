@@ -113,7 +113,7 @@ The system implements a sophisticated four-tier decision tree that sequentially 
 
 https://github.com/kukuu/BOM-Compliance-repo (**PRIVATE**)
 
-#  Artificial Intelligence, Machine Learning, Large Language Mdodeling and Natural Language Processing Integration 
+#  Artificial Intelligence, Machine Learning, Large Language Modeling  and Natural Language Processing Integration 
 A structured approach to leveraging stack  necessary  for Machine Learning and Large Language Models integration.
 
 https://github.com/kukuu/AI-ML-LLM-NLP-integration
