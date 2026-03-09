@@ -27,6 +27,25 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
      
 https://github.com/kukuu?tab=repositories
 
+# SPYDER - Price Comparison Smart Energy Meter Reader       
+ 
+A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions. 
+
+Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
+ 
+**Application**: https://www.energytariffscheck.com/   
+
+**Overview**: https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md   
+
+**Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
+
+
+# "JIM" - AI Agent Trusted Companion 
+
+A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted assistant with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
+
+https://github.com/kukuu/ask-JIM/blob/main/README.md
+
 # Nut Cracker: The Zero-Friction J2E (JSON to EXCEL) Converter
 
 Developed by Alexander Adu-Sarkodie, **Nut Cracker** is a full-stack, API-driven solution that eliminates the manual grind of data conversion. It provides an intuitive web interface to instantly transform complex JSON structures into polished, formatted Excel spreadsheets and back again with a single click.
@@ -73,24 +92,7 @@ _Modules:_
   - Pletora of Gallerie and Trends
 
             
-# SPYDER - Price Comparison Smart Energy Meter Reader       
- 
-A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions.
 
-Its proven track record is honed in applying AI to core business problems. SPYDER uses Machine Learning, Artificial Intelligence, Large Language Models and Retrieve Augmentation Generators algorithms to interpret complex energy tariffs, automating a manual consultancy process and enabling customers to self-serve the best pricing, thereby solving a direct business and customer challenge.
- 
-**Application**: https://www.energytariffscheck.com/   
-
-**Overview**: https://github.com/kukuu/SPYDER/blob/main/spyder-overview.md   
-
-**Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
-
-
-# "JIM" - AI Agent Trusted Companion 
-
-A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted assistant with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
-
-https://github.com/kukuu/ask-JIM/blob/main/README.md
 
 # StrikeNet (MOD UK)
 
