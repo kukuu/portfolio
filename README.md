@@ -73,7 +73,7 @@ _Modules:_
   - Pletora of Gallerie and Trends
 
             
-# Price Comparison - Smart Energy Meter Reader       
+# SPYDER - Price Comparison Smart Energy Meter Reader       
  
 A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions.
 
@@ -86,9 +86,9 @@ Its proven track record is honed in applying AI to core business problems. SPYDE
 **Vault**: https://github.com/kukuu/digital-twin-v2 (**PRIVATE**)
 
 
-# "Ask JIM" - AI Agent Trusted Companion 
+# "JIM" - AI Agent Trusted Companion 
 
-A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
+A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted assistant with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.
 
 https://github.com/kukuu/ask-JIM/blob/main/README.md
 
@@ -135,10 +135,6 @@ Documentation: https://github.com/kukuu/IIoT-Digital-Twin-Simulation
 <!--Snapshots: https://github.com/kukuu/IIoT-Digital-Twin-Simulation/blob/main/snapshots.md -->
 
 
-
-
-
-
 # Love Joint
 
 As Head of Product Engineering, I led the end-to-end technical design and implementation of this e-commerce platform, ensuring scalability, secure payment integrations, and seamless user experience. As achievement, I delivered a robust, high-performance platform that supported a 300% increase in user traffic post-launch, optimised page load speeds by 40%, and integrated a custom CMS for dynamic product management, directly contributing to rapid revenue growth and market penetration.
@@ -151,14 +147,17 @@ Discover how to maximise your productivity with this Task Manager. The applicati
 https://www.youtube.com/watch?v=4OFE2tiXK7g&t=149s&nopreview=1 -->
 
 
- 
-
 
 # ScoutTM Football Academy
 
 Azzotto Football Academy is more than a skills school - it’s a launchpad for dreams, where every child’s potential is nurtured on lush green pitches under the guidance of experienced coaches. Its  comprehensive training program goes beyond technique, fostering a love for the game while cultivating teamwork, sportsmanship, discipline, and resilience, shaping well-rounded individuals both on and off the field. United by the magic of football, it welcomes players of all backgrounds and abilities, creating a supportive community where dreams become a shared journey and the rhythm of the ball leads to a future brimming with endless possibilities.
 
 https://www.azzottoscouttmacademy.com/
+
+
+# Articles
+
+https://github.com/kukuu/articles
 
 # LinkedIn 
 
