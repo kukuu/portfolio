@@ -55,7 +55,9 @@ A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and 
 
 https://github.com/kukuu/ask-JIM/blob/main/README.md
 
-# Nut Cracker: The Zero-Friction J2E (JSON to EXCEL) Converter
+# Nut Cracker
+
+_The Zero-Friction J2E (JSON to EXCEL) Converter_
 
 Developed by Alexander Adu-Sarkodie, **Nut Cracker** is a full-stack, API-driven solution that eliminates the manual grind of data conversion. It provides an intuitive web interface to instantly transform complex JSON structures into polished, formatted Excel spreadsheets and back again with a single click.
 
