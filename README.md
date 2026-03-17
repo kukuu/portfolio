@@ -27,6 +27,10 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
      
 https://github.com/kukuu?tab=repositories
 
+# StreamJack-Interceptor
+
+
+
 # SPYDER - Price Comparison Smart Energy Meter Reader       
  
 A Net Zero initiative, SPYDER uses  AI-driven analytics and user-friendly compute engine tools to compare tariffs, track consumption, simulate scenarios, predict outcomes, enable forecasting, facilitate predictive maintenance, and recommend cost-effective renewable energy options by saving on energy bills. It integrates dynamic carbon footprint tracking, personalised energy-saving strategies, and compliance frameworks into a scalable platform - helping users align sustainability goals with practical, measurable actions. 
