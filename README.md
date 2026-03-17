@@ -15,7 +15,9 @@ Career trajectory spans Software Developer, Technical Lead, Principal Architect,
           
 # GitHub    
 
-**255 Repositories**
+https://github.com/kukuu?tab=repositories
+
+_255 Repositories_
 
 
 # Technology Forum
@@ -25,7 +27,7 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
 <!--https://github.com/kukuu/portfolio/blob/main/linkedin-profile.png  -->         
  
      
-https://github.com/kukuu?tab=repositories
+
 
 # StreamJack-Interceptor
 
