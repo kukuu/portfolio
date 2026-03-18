@@ -31,10 +31,9 @@ https://www.linkedin.com/posts/alfiegeorgewhattam_londontech-londontechnology-te
 
 # StreamJack-Interceptor
 
-Turning Video Endings into Revenue Engines.
+It's essentially a video monetization engine that ensures viewers see partner content at the most valuable moment - right when a video they're interested in finishes!
 
-
-https://github.com/kukuu/StreamJack-Interceptor
+_Turning Video Endings into Revenue Engines_ : https://github.com/kukuu/StreamJack-Interceptor
 
 # SPYDER - Price Comparison Smart Energy Meter Reader       
  
