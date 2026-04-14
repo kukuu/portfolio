@@ -1,5 +1,5 @@
 
-# Alexander Adu-Sarkodie      
+# Alexander Adu-Sarkodie       
   
 Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning digital transformation and technical projects at  
 **Ford Motor Company, BBC, Marks & Spencer, Sony Pictures, Flix Premier, MOD UK, GCHQ, Banking, Energy, and at FIFA**,  while upholding standards and governance initiatives in achieving impactful results.   
