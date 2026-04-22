@@ -1,4 +1,4 @@
-
+ 
 # Alexander Adu-Sarkodie       
   
 Alexander was honoured to be named one of the **Top 50 Technologists** in the UK by the Industry. This recognition underscores his contributions to technology and his dedication to fostering innovation, excellence, and best practices in Award Winning digital transformation and technical projects at  
